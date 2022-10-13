@@ -1,0 +1,114 @@
+
+body{
+font-family: 'Handlee', cursive;
+}
+.logo_scale{
+  max-width: 300px;
+  height: auto;
+}
+.tl-nav-text-color{
+  color: black;
+}
+.tl-nav-text-color:hover{
+
+  color: #f5ce42;
+}
+.tl-text-scale{
+font-size: 20px;
+
+}
+.tl-active{
+    color: #d2a450;
+}
+
+.tl-img-size{
+  max-width: 100%;
+}
+.img-wrapper {
+  position: relative;
+}
+
+.img-responsive {
+  width: 100%;
+  height: auto;
+}
+
+.img-overlay {
+  position:absolute;
+  top: 1;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+
+.img-overlay:before {
+  content: ' ';
+  display: block;
+  height: 50%;
+}
+.btn-tocotoco{
+  background-color: #f5ce42;
+}
+
+.readmorebtn{
+  position: relative;
+  top: -50%;
+  left: 20%;
+  height: auto;
+}
+.btn-tocotoco:hover{
+  background-color: #fcf4ca;
+  color: black;
+}
+.top-right {
+  position: relative;
+  top: -100px;
+  right: -160px;
+}
+.maintxt {position: relative;}
+.maintxt > img,
+ .overlay-text {position: absolute;}
+.tl-font-size{
+  font-size: 20pt;
+}
+.tl-font-size-2{
+  font-size: 40pt;
+}
+.ins-size{
+  max-width: 40%;
+}
+.tl-link{
+  
+  text-decoration: none;
+  font-size: 30pt;
+  color: black;
+  margin-top: 40px;
+  background-color: white;
+  border-radius: 20pt;
+  padding: 4px;
+
+}
+
+.tl-link:hover{
+  background-color: #c7a200;
+  color: white;
+  padding: 4px;
+
+}
+.tl-link2{
+
+  text-decoration: none;
+  font-size: 20pt;
+  color: black;
+  margin-top: 40px;
+  border-radius: 20px;
+
+}
+
+.tl-link2:hover{
+  background-color: #c7a200;
+  color: white;
+  padding: 4px;
+
+}
